@@ -112,6 +112,4 @@ Os scripts são carregados no fim de `index.html` com `defer`, na ordem das depe
 
 O workflow `.github/workflows/pages.yml` publica a pasta do site quando há atualização na branch `main`. Em **Settings → Pages**, selecione **GitHub Actions** como origem. A URL pública do projeto está no topo deste README.
 
-## Pacote VRChat
 
-O diretório `WhoIsThisVRChat/` contém um protótipo separado em UdonSharp para virar um mundo do VRChat. Ele requer um projeto **Worlds** criado pelo VRChat Creator Companion; veja o [README do pacote VRChat](WhoIsThisVRChat/README.md) para configuração e explicação de scripts.
